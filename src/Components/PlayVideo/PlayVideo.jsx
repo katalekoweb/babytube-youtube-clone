@@ -42,7 +42,7 @@ const PlayVideo = () => {
                 <p>
                     This is the best channel to learn web development. The tutorials are very easy to understand and the instructor is very friendly.
                 </p>
-                <div className="commect-action">
+                <div className="comment-action">
                     <img src={like} alt="" />
                     <span>244</span>
 
@@ -58,7 +58,7 @@ const PlayVideo = () => {
                 <p>
                     This is the best channel to learn web development. The tutorials are very easy to understand and the instructor is very friendly.
                 </p>
-                <div className="commect-action">
+                <div className="comment-action">
                     <img src={like} alt="" />
                     <span>244</span>
 
@@ -74,7 +74,7 @@ const PlayVideo = () => {
                 <p>
                     This is the best channel to learn web development. The tutorials are very easy to understand and the instructor is very friendly.
                 </p>
-                <div className="commect-action">
+                <div className="comment-action">
                     <img src={like} alt="" />
                     <span>244</span>
 
@@ -90,7 +90,7 @@ const PlayVideo = () => {
                 <p>
                     This is the best channel to learn web development. The tutorials are very easy to understand and the instructor is very friendly.
                 </p>
-                <div className="commect-action">
+                <div className="comment-action">
                     <img src={like} alt="" />
                     <span>244</span>
 
@@ -106,7 +106,7 @@ const PlayVideo = () => {
                 <p>
                     This is the best channel to learn web development. The tutorials are very easy to understand and the instructor is very friendly.
                 </p>
-                <div className="commect-action">
+                <div className="comment-action">
                     <img src={like} alt="" />
                     <span>244</span>
 
@@ -122,7 +122,7 @@ const PlayVideo = () => {
                 <p>
                     This is the best channel to learn web development. The tutorials are very easy to understand and the instructor is very friendly.
                 </p>
-                <div className="commect-action">
+                <div className="comment-action">
                     <img src={like} alt="" />
                     <span>244</span>
 
